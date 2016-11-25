@@ -10,7 +10,7 @@
 </head>
 <body background ="background_image.jpg">
 <center>
-		<h1 style="color: red;">DevOps Summit</h1>
+		<h1 style="color: red;">Credit Card Application Details</h1>
 	</center>
 <body>
 	<%

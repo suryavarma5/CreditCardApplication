@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Devops Summit 2016</title>
 </head>
 <body background ="background_image.jpg">
 <center>

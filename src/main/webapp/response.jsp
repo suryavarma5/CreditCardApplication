@@ -9,6 +9,9 @@
 <title>Insert title here</title>
 </head>
 <body background ="background_image.jpg">
+<center>
+		<h1 style="color: red;">DevOps Summit</h1>
+	</center>
 <body>
 	<%
 		Profile profile = (Profile) request.getAttribute("cust");

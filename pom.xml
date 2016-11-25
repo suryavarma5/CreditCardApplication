@@ -51,6 +51,6 @@
             </configuration>
          </plugin>
       </plugins>
-      <finalName>devOpsExample</finalName>
+      <finalName>devOpsExample-1</finalName>
    </build>
 </project>

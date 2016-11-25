@@ -13,7 +13,7 @@
 	<%
 		Profile profile = (Profile) request.getAttribute("cust");
 	%>
-	<table align="center" bgcolor="#FFFFCC" border="1" width="70%">
+	<table align="center"  border="1" width="30%">
 		<tr>
 			<td colspan="2" align="center"><%="Welcome " + profile.getName() + " ! Your details are processed."%></td>
 		</tr>

@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>DevOps Summit</title>
 </head>
-<body>
+<body backgroung="background_image.jpg">
 	<center>
 		<h1 style="color: red;">DevOps Summit</h1>
 	</center>

@@ -18,18 +18,5 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class SeleniumTest throws Exception
 {
 
-    String URL = "";
-    String title = "";
-
-    @Test
-    System.out.println("Selenium Test Starting.......");
-    Webdriver driver = new FirefoxDriver();
-    Thread.sleep(10000L);
-    driver.get(URL);
-    Thread.sleep(10000L);
-    Assert.assertEquals(title, driver.getTitle());
-    System.out.println(" Verified that the title is as expected.. Ending Test");
-    Thread.sleep(10000L);
-    System.out.println("Closing Browser and qutting selenium");
-    driver.quit();
+   
 }

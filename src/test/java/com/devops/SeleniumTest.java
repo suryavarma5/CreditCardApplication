@@ -17,8 +17,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class SeleniumTest {
 
-    String URL = "";
-    String title = "";
+    String URL = "http://creditcardapp.centralindia.cloudapp.azure.com:8000/CreditCardApp/";
+    String title = "Credit Card Application";
 
     @Test
     public static void checkTitle() throws InterruptedException {

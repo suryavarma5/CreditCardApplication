@@ -32,12 +32,12 @@
 						<td><input type="text" name="city" value="" /></td>
 					</tr>
 			    	 <tr>
-						<td>Select Credit Card</td>
+					<!--  	<td>Select Credit Card</td>
 						<td><select id="creditCard" name="creditCard">
 								<option value="gold">GOLD</option>
 								<option value="silver">SILVER</option>
 								<option value="platinum">PLATINUM</option>
-						</select></td>
+						</select></td>  -->
 					</tr>      
 					<tr>  
 						<td></td>

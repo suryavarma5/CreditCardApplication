@@ -39,12 +39,12 @@
 								<option value="platinum">PLATINUM</option>
 						</select></td>  
 					</tr>  
-					<tr>  
+			<!--  		<tr>  
 						<td></td>
 						<td><input style="text-align: right;" type="submit"
-							value="SUBMIT" /></td>
+							value="SUBMIT" /></td> 
 
-					</tr>
+					</tr> -->
 				</tbody>
 			</table>
 		</center>

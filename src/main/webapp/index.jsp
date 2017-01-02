@@ -41,7 +41,7 @@
 					</tr>  
 					<tr>  
 						<td></td>
-						<td><input style="text-align: center;" type="submit"
+						<td><input style="text-align: right;" type="submit"
 							value="SUBMIT" /></td>
 
 					</tr>

@@ -38,7 +38,7 @@
 								<option value="silver">SILVER</option>
 								<option value="platinum">PLATINUM</option>
 						</select></td>  
-					</tr>    -->
+					</tr>  -->
 					<tr>  
 						<td></td>
 						<td><input style="text-align: center;" type="submit"

@@ -42,7 +42,7 @@
 					<tr>  
 						<td></td>
 						<td><input style="text-align: right;" type="submit"
-							value="SUBMIT" /></td>
+							value="SUBMIT" /></td> 
 					</tr>
 				</tbody>
 			</table>

@@ -35,8 +35,8 @@
 
  	         <tr>
 			<td>Credit Card</td>
-			<td><%=profile.getCreditCard()%></td>
-		</tr>     
+			<td><%=profile.getCreditCard()%></td> 
+		</tr>    
 	</table>
 
 </body>

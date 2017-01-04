@@ -39,7 +39,7 @@
 								<option value="platinum">PLATINUM</option>
 						</select></td>  
 
-					</tr>    
+					</tr>     
 			
 					<tr>  
 

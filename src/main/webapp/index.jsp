@@ -30,7 +30,7 @@
 					<tr>
 						<td>Enter City</td>
 						<td><input type="text" name="city" value="" /></td>
-				<!-- 	</tr>
+				</tr>
 			         	 <tr>
 					  	<td>Select Credit Card</td>
 						<td><select id="creditCard" name="creditCard">
@@ -39,7 +39,7 @@
 								<option value="platinum">PLATINUM</option>
 						</select></td>  
 
-					</tr>   -->
+					</tr>
 					<tr>  
 
 						<td></td>

@@ -33,10 +33,10 @@
 			<td><%=profile.getCity()%></td>
 		</tr> 
 
- <tr>
+ <!-- <tr>
 			<td>Credit Card</td>
 			<td><%=profile.getCreditCard()%></td>
-		</tr>
+		</tr> -->
 	</table>
 
 </body>

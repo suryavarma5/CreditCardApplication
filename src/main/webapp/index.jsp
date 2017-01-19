@@ -32,7 +32,7 @@
 						<td><input type="text" name="city" value="" /></td>
 				</tr>
 				
-				<!-- 
+				
 				<tr>
 					  	<td>Select Credit Card</td>
 						<td><select id="creditCard" name="creditCard">
@@ -42,7 +42,6 @@
 						</select></td>  
 
 					</tr>
-					-->
 					<tr>  
 
 						<td></td>
